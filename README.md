@@ -44,7 +44,6 @@ The dataset used for this project is a multimodal dataset composed of:
 *   Overall confidence scores.
 *   Engagement levels (high, medium, low)
 
-
 ## Installation
 
 1.  **Clone the Repository:**
@@ -54,7 +53,7 @@ The dataset used for this project is a multimodal dataset composed of:
     cd multimodal_ml_project
     ```
 
-2.  **Set up the Environment:** You may need to install specific packages for your system, depending on your setup and project needs. Please ensure you have the libraries required in the project to be able to execute the code.
+2. **Set up the Environment:** You may need to install specific packages for your system, depending on your setup and project needs. Please ensure you have the libraries required in the project to be able to execute the code.
 
 ## Usage
 
