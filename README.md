@@ -25,6 +25,7 @@ The core of the project is an evaluation of different classification models to d
 ├── Code.ipynb                        # Jupyter notebook for the project
 ├── Paper_Presentation.pptx           # PowerPoint slides for project presentation
 ├── Paper_Final.docx                # Final report/paper in word format
+├── Paper_Final.pdf                # Final report/paper in pdf format
 ├── Ten-students_combined_data.xlsx  # The dataset used in the project (ensure this file is excluded in git)
 ├── README.md                        # This file
 ├── best_rf_model.pkl               # Trained Random Forest model
