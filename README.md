@@ -11,7 +11,6 @@ This repository contains the code, documentation, and trained models for a proje
 - [Usage](#usage)
 - [Model Training and Evaluation](#model-training-and-evaluation)
 - [Results](#results)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Project Overview
@@ -85,15 +84,6 @@ The notebook shows the results using the following format:
 * A bar plot of the Model performance, comparing each model's performance on the four evaluation metrics.
 
 For specific results and observations, please refer to the notebook's output after execution.
-
-## Contributing
-
-Contributions are welcome! If you would like to contribute to the project, please:
-
-1.  Fork the repository.
-2.  Create a new branch for your feature or fix.
-3.  Commit your changes.
-4.  Open a pull request.
 
 ## License
 
