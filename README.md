@@ -11,7 +11,6 @@ This repository contains the code, documentation, and trained models for a proje
 - [Usage](#usage)
 - [Model Training and Evaluation](#model-training-and-evaluation)
 - [Results](#results)
-- [Further Work](#further-work)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -86,15 +85,6 @@ The notebook shows the results using the following format:
 * A bar plot of the Model performance, comparing each model's performance on the four evaluation metrics.
 
 For specific results and observations, please refer to the notebook's output after execution.
-
-## Further Work
-
-Future avenues for development may include:
-
-*   Exploring more advanced deep learning architectures.
-*   Feature selection or engineering using insights from feature importance.
-*   Investigating different data augmentation techniques.
-*   Testing the models with external validation sets.
 
 ## Contributing
 
