@@ -1,6 +1,3 @@
-Okay, I understand. If there's no `requirements.txt` file for this project (meaning you're not using `pip` for dependency management or have all dependencies installed already), we can remove the mention of it from the `README.md`. Here's the updated version:
-
-```markdown
 # Classifying Student Engagement with Multimodal Data
 
 This repository contains the code, documentation, and trained models for a project that classifies student engagement levels (high, medium, low) using multimodal data: facial expressions, speech emotions, heart rate, and overall confidence. The project utilizes machine learning techniques, including Random Forest, Support Vector Machines (SVMs), Neural Networks (MLPs) and an ensemble model, to predict engagement levels.
